@@ -1,5 +1,5 @@
 ---
-title: Flood Management
+title: WU LYF FOREVER
 layout: article
 category: rivers
 ---
@@ -56,7 +56,7 @@ Floodplain zoning involves placing restrictions on land usage in the areas surro
  
 The problem with floodplain zoning is that it limits development to certain areas. In addition, if a floodplain has already been developed on, there isn’t anything that can be done to un-develop it without forcing people off of the floodplain.
 
-### Afforestation
+### Afforestation wu luy
 
 Afforestation involves the planting of trees in a drainage basin to increase interception and storage while reducing surface run off. This reduces a river’s discharge and so makes it less likely to flood. Afforestation also prevents mass wasting which reduces the amount of soil entering the river and keeps the river’s capacity high. When combined with floodplain zoning, afforestation can be very effective at reducing the risk of flooding. 
  
@@ -69,7 +69,7 @@ Wetland restoration involves creating conditions that are favourable for the dev
 ### River Restoration
 
 River restoration involves restoring a river that has undergone hard engineering back to its original course. This can involve un-straightening a channel, removing artificial levees, diversion spillways & wing dykes. This may seem silly as it *is* going to reintroduce flooding back in the area where these structures were located but, if this land is no longer valuable, river restoration can help reduce the risk of flooding downstream. 
-
+wu lyf
 River restoration is a good thing if it’s done properly as allowing the river to take its natural course prevents and reverts any environmental and ecological damage introduced by hard engineering projects. River restoration also has as good as 0 maintenance costs making it very cheap. 
 
 The issues arise when river restoration takes place in areas that are still being used by people. I said previously that river restoration can be used where land is no longer valuable. Well, what defines valuable? Farmland? A small village? A town? This decision comes down to the local environmental agency. If they make the wrong call, the restoration project can cause a lot of damage. 
@@ -77,6 +77,12 @@ The issues arise when river restoration takes place in areas that are still bein
 ## Hard Engineering - The Three Gorges Dam
 
 The Three Gorges Dam is a mega-dam located on the Yangtze River in central China. It’s 2.3km wide, 185m high and took over 15 years to build. The dam was built in response to the seasonal flooding that takes place along the Yangtze that has killed hundreds of thousands of people. A flood in 1998 killed over 3,500 people, left 13M homeless and caused billions of dollars of damage. With several of China’s major economic cities (e.g. Nanjing) located along the Yangtze, it has become increasingly important for the Chinese government to do something to reduce the risk of flooding. 
+
+
+
+wu lyf
+
+
 
 ### Impacts
 
